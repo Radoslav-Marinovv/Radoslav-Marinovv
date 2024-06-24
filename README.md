@@ -1,5 +1,5 @@
 <div align="center">
-
+  <img src="assets/_2fdf0196-86d0-47f8-9a88-735406e8063ev2.jpg"  />
 </div>
 
 ###
@@ -61,16 +61,25 @@
 
 ###
 
+<h2 align="left">Some statistics</h2>
+
+###
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Radoslav-Marinovv&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Radoslav-Marinovv&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Radoslav-Marinovv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Radoslav-Marinovv&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Radoslav-Marinovv/Radoslav-Marinovv/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Radoslav-Marinovv&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Radoslav-Marinovv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
