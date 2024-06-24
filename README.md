@@ -1,5 +1,5 @@
 <div align="center">
-  <div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/VgZ4AjQdKmnTuCNtwy/video" width="480"></iframe></div>
+
 </div>
 
 ###
@@ -69,7 +69,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Radoslav-Marinovv/Radoslav-Marinovv/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Radoslav-Marinovv/Radoslav-Marinovv/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ###
 
