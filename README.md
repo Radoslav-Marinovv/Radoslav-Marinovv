@@ -61,6 +61,24 @@
 
 ###
 
+<h2 align="left">My certificate</h2>
+
+###
+
+<br clear="both">
+
+<div align="center" style="display:flex; justify-content: space-between;" >
+
+<img align="center" width="45%" src="assets/certificate-front.jpg"  />
+
+<br clear="both"/>
+
+<img align="center" width="45%" src="assets/certificate-back.jpg"  />
+
+</div>
+
+###
+
 <h2 align="left">Some statistics</h2>
 
 ###
