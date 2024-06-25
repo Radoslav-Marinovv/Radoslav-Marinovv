@@ -69,11 +69,9 @@
 
 <div align="center" style="display:flex; justify-content: space-between;" >
 
-<img align="center" width="45%" src="assets/certificate-front.jpg"  />
+<img align="center" width="49%" src="assets/certificate-front.jpg"  />
 
-<br clear="both"/>
-
-<img align="center" width="45%" src="assets/certificate-back.jpg"  />
+<img align="center" width="49%" src="assets/certificate-back.jpg"  />
 
 </div>
 
