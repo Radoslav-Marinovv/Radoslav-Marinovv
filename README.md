@@ -25,7 +25,7 @@
 
 <br clear="both">
 
-<p align="center">🌟 Frontend Developer | JavaScript Enthusiast<br><br>📌 Skills:<br>JavaScript: Proficient in writing clean, efficient code to enhance user experiences.<br><br>HTML/CSS: Skilled in creating responsive, visually appealing web interfaces.<br><br>React & React Native: Experienced in building interactive, component-based applications.<br><br>Next.js: Familiar with server-side rendering and static site generation.<br><br>Tailwind CSS: Familiar with utility-first CSS framework for streamlined styling.<br><br>Firebase & MongoDB: Knowledgeable about database management and cloud services.<br><br>Git: Comfortable using version control for collaborative development.<br><br>🎓 Education:<br>Telerik Academy: Completed Alpha JavaScript Track.<br><br>📧 Feel free to connect! Let’s build something amazing together. 🚀</p>
+<p align="center">I am a software developer with a passion for web development. I have experience with JavaScript, TypeScript, React, Next.js, Node.js, and Firebase. I am also familiar with C# and have experience with HTML, CSS, and Git.<br><br>🎓 Education:<br>Telerik Academy: Completed Alpha JavaScript Track.<br><br>📧 Feel free to connect! Let’s build something amazing together. 🚀</p>
 
 ###
 
