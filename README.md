@@ -9,9 +9,10 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/radoslav-marinov-0b940689/" target="_blank">
+     <a href="https://www.linkedin.com/in/radoslav-marinov-0b940689/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="54" alt="linkedin logo"  />
   </a>
+  
   <a href="mailto:radoslav.marinov89@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="54" alt="gmail logo"  />
   </a>
@@ -61,29 +62,7 @@
 
 ###
 
-<h2 align="left">My certificate</h2>
-
-###
-
-<br clear="both">
-
-<div align="center" style="display:flex; justify-content: space-between;" >
-
-<img align="center" width="49%" src="assets/certificate-front.jpg"  />
-
-<img align="center" width="49%" src="assets/certificate-back.jpg"  />
-
-</div>
-
-###
-
 <h2 align="left">Some statistics</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Radoslav-Marinovv&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-</div>
 
 ###
 
